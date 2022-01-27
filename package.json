@@ -1,0 +1,8 @@
+{
+  "name": "React-Immersion-Training-2022-Local",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/danielemaraschin/React-Immersion-Training-2022.git",
+  "author": "danielemaraschin <danikmaraschin@gmail.com>",
+  "license": "MIT"
+}
