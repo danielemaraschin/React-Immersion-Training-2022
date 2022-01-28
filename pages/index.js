@@ -5,6 +5,11 @@ function HomePage() {
     <div>
       <h1>Boas Vindas!</h1>
       <h2>Discord- Alura Matrix</h2>
+      <style jsx>{`
+      p {
+        color: red;
+      }
+    `}</style>
     </div>
   )
 }
