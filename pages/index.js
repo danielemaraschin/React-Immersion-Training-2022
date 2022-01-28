@@ -6,7 +6,7 @@ function HomePage() {
       <h1>Boas Vindas!</h1>
       <h2>Discord- Alura Matrix</h2>
       <style jsx>{`
-      p {
+      h1 {
         color: red;
       }
     `}</style>
