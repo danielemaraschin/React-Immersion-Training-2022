@@ -4,6 +4,7 @@ function HomePage() {
   return ( //coloque esses parenteses so para o texto nao ficar escuro quando eu quebro a linha
     <div>
       <h1>Boas Vindas!</h1>
+      <h2>Discord- Alura Matrix</h2>
     </div>
   )
 }
