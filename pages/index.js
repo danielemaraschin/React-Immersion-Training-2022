@@ -1,6 +1,6 @@
 function Titulo(){
   return(
-    <h1>Boas Vindas!</h1>
+    <h1>ignorando o h1</h1>
   )
 }
 
