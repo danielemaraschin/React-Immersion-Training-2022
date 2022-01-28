@@ -1,9 +1,16 @@
+function Titulo(){
+  return(
+    <h1>Boas Vindas!</h1>
+  )
+}
+
+
 //component react
 function HomePage() {
   //JSX
   return ( //coloque esses parenteses so para o texto nao ficar escuro quando eu quebro a linha
     <div>
-      <h1>Boas Vindas!</h1>
+      <Titulo>Boas Vindas!</Titulo>
       <h2>Discord- Alura Matrix</h2>
       <style jsx>{`
       h1 {
